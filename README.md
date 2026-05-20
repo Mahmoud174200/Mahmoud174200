@@ -4,12 +4,12 @@
      ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=isometric&color=06090f&height=220&section=header&text=MAHMOUD%20ELMOSALAMY&fontSize=45&fontColor=3b82f6&animation=twinkling&desc=Full%20Stack%20Software%20Engineer%20%7C%20AI%20Integrator&descAlignY=62&descAlign=50&descSize=18" width="100%" alt="Ultra Dark Isometric Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=isometric&color=06090f&height=220&section=header&text=MAHMOUD%20ELMOSALAMY&fontSize=45&fontColor=3b82f6&animation=twinkling&desc=Full%20Stack%20Software%20Engineer%20%7C%20AI%20Integrator&descAlignY=62&descAlign=50&descSize=18" width="100%" alt="Ultra Dark Isometric Banner" />
 </p>
 
-<!-- Neon Animated Glowing Divider -->
+<!-- Sleek Capsule Render Glowing Divider Line -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257474-ca20c6d7-e23a-4467-bc18-b7155e4bf5b7.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3b82f6&height=4&section=header" width="100%" />
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ developer:
 
 <p align="center">
   <a href="https://github.com/Mahmoud174200">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud174200&background=06090f&fire=10b981&ring=3b82f6&currStreakLabel=3b82f6&sideNums=f8fafc&sideLabels=f8fafc&currStreakNum=10b981&hide_border=true" alt="Mahmoud's Streak Stats" />
+    <img src="https://streak-stats.demolab.com?user=Mahmoud174200&background=06090f&fire=10b981&ring=3b82f6&currStreakLabel=3b82f6&sideNums=f8fafc&sideLabels=f8fafc&currStreakNum=10b981&hide_border=true" alt="Mahmoud's Streak Stats" />
   </a>
 </p>
 
@@ -115,11 +115,6 @@ developer:
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud174200&bg_color=06090f&color=3b82f6&line=10b981&point=8b5cf6&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
-<!-- Neon Snake Game Contribution Grid Animation -->
-<p align="center">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d03ba6e40754ee026a293459614adabc194d7ea6/media/mention-badge.svg" />
 </p>
 
 ---
