@@ -1,14 +1,19 @@
 <!-- ═══════════════════════════════════════════════════════════
-     MAHMOUD AHMED ELMOSALAMY — ELITE CYBERPUNK GITHUB PROFILE
-     Theme: Premium Dark (Matches https://mosalamy.netlify.app/)
+     MAHMOUD AHMED ELMOSALAMY — ULTIMATE DARK ANIMATED GITHUB PROFILE
+     Theme: Ultra-Dark Neon (Matches #06090f deep dark theme)
      ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=0b0f19&height=220&section=header&text=MAHMOUD%20ELMOSALAMY&fontSize=42&fontColor=3b82f6&animation=twinkling&desc=Full%20Stack%20Software%20Engineer%20%7C%20Enterprise%20Architect&descAlignY=62&descAlign=50&descSize=18" width="100%" alt="Premium Banner" />
+  <img src="https://capsule-render.vercel.app/type=isometric&color=06090f&height=220&section=header&text=MAHMOUD%20ELMOSALAMY&fontSize=45&fontColor=3b82f6&animation=twinkling&desc=Full%20Stack%20Software%20Engineer%20%7C%20AI%20Integrator&descAlignY=62&descAlign=50&descSize=18" width="100%" alt="Ultra Dark Isometric Banner" />
+</p>
+
+<!-- Neon Animated Glowing Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257474-ca20c6d7-e23a-4467-bc18-b7155e4bf5b7.gif" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=10b981&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Software+Engineer;Laravel+%E2%80%A2+React+%E2%80%A2+Node.js;AI+%26+RAG+Systems+Integrator;Real-time+Telemetry+Architect" alt="Dynamic Role Typist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=25&duration=2500&pause=1000&color=10b981&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Software+Engineer;Laravel+%E2%80%A2+React+%E2%80%A2+Node.js;AI+%26+RAG+Systems+Architect;Real-time+Telemetry+Architect" alt="Dynamic Role Typist" />
 </p>
 
 <p align="center">
@@ -84,36 +89,37 @@ developer:
 
 ---
 
-### 📊 Operational Telemetry & Metrics
+### 📊 Live Operational Metrics (Ultra-Dark Mode)
 
-<div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="50%" align="center">
-        <!-- Custom-colored Stats Card (Matching mosalamy.netlify.app) -->
-        <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud174200&show_icons=true&theme=tokyonight&bg_color=0b0f19&title_color=3b82f6&text_color=94a3b8&icon_color=10b981&border_color=1b2336&count_private=true&hide_border=true" width="100%" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <!-- Custom-colored Languages Card -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud174200&layout=compact&theme=tokyonight&bg_color=0b0f19&title_color=3b82f6&text_color=94a3b8&icon_color=10b981&border_color=1b2336&hide_border=true" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br/>
-        <!-- Custom-colored Streak Card -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud174200&theme=tokyonight&background=0b0f19&fire=10b981&ring=3b82f6&currStreakLabel=3b82f6&sideNums=94a3b8&sideLabels=94a3b8&currStreakNum=10b981&hide_border=true" width="100%" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/Mahmoud174200">
+    <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud174200&show_icons=true&bg_color=06090f&title_color=3b82f6&text_color=f8fafc&icon_color=10b981&hide_border=true&count_private=true" alt="Mahmoud's GitHub Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mahmoud174200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud174200&layout=compact&bg_color=06090f&title_color=3b82f6&text_color=f8fafc&icon_color=10b981&hide_border=true" alt="Mahmoud's Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mahmoud174200">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud174200&background=06090f&fire=10b981&ring=3b82f6&currStreakLabel=3b82f6&sideNums=f8fafc&sideLabels=f8fafc&currStreakNum=10b981&hide_border=true" alt="Mahmoud's Streak Stats" />
+  </a>
+</p>
 
 ---
 
 ### ⚡ Activity Vector (Past 30 Days)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud174200&theme=tokyo-night&bg_color=0b0f19&color=3b82f6&line=10b981&point=8b5cf6&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud174200&bg_color=06090f&color=3b82f6&line=10b981&point=8b5cf6&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+<!-- Neon Snake Game Contribution Grid Animation -->
+<p align="center">
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d03ba6e40754ee026a293459614adabc194d7ea6/media/mention-badge.svg" />
 </p>
 
 ---
