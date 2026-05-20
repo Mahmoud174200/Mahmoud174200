@@ -1,123 +1,139 @@
-# Hey there! I'm Mahmoud Ahmed Elmosalamy 👋
-### Full Stack Software Engineer | Enterprise System Architect | AI Integrator
+<!-- ═══════════════════════════════════════════════════════════
+     MAHMOUD AHMED ELMOSALAMY — ELITE CYBERPUNK GITHUB PROFILE
+     Theme: Premium Dark (Matches https://mosalamy.netlify.app/)
+     ═══════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Software+Engineer;Laravel+%2B+React+%2B+Node.js;Enterprise+System+Architect;AI+%26+RAG+Integrations" alt="Typing SVG" />
-</p>
-
----
-
-### 🚀 About Me
-I am a Computer Science graduate from **Cairo University** (Class of 2025) and a highly analytical **Full Stack Software Engineer** with extensive experience in architecting and delivering enterprise-grade web applications. 
-
-Specializing in **Laravel**, **React.js**, and **Node.js**, I construct robust database schemas, secure system structures, and real-time telemetry control rooms. I am passionate about clean, maintainable code, high-performance APIs, and utilizing cutting-edge technologies like **RAG (Retrieval-Augmented Generation)** and **Machine Learning** to solve complex business operations.
-
-* 💼 **Current Role:** Software Engineer at **Petrochoice Integrated Services**
-* 🎓 **Education:** B.Sc. in Computer Science | Cairo University
-* 🌐 **Portfolio:** [mosalamy.netlify.app](https://mosalamy.netlify.app/)
-* ✉️ **Contact:** afmahmoudahmed@gmail.com
-
----
-
-### 🛠️ Technical Toolkit
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>💻 Programming Languages</strong><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    </td>
-    <td valign="top" width="50%">
-      <strong>⚙️ Backend & APIs</strong><br/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST_API-0052CC?style=for-the-badge&logo=postman&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>🎨 Frontend Development</strong><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    </td>
-    <td valign="top" width="50%">
-      <strong>🗄️ Databases & Hosting</strong><br/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📂 Highlighted Enterprise Projects
-
-#### 🚛 1. Journey Management System (JMS)
-* **Description:** A high-performance fleet safety tracking platform managing vehicle movements between active oil rigs.
-* **Core Tech:** Laravel, React, Node.js, WebSockets, Python, MySQL, OpenStreetMap.
-* **Key Achievements:**
-  * Configured live real-time vehicle telemetry feeds and mapping displays powered by WebSockets.
-  * Integrated an AI-driven camera stream model detecting driver fatigue and distraction, instantly raising critical security alerts in the control room.
-
-#### 🏢 2. UniFlow ERP System
-* **Description:** An enterprise resource planning platform managing 5 core corporate departments — BD, SCM, Finance, HR, and Operations.
-* **Core Tech:** Laravel, MySQL, JavaScript, Chart.js, Bootstrap, Laravel Sanctum.
-* **Key Achievements:**
-  * Designed complex relational database tables capturing multi-tenant dependencies.
-  * Engineered a highly secure role-based access control (RBAC) routing mechanism utilizing obfuscated and hashed route IDs.
-  * Developed interactive data telemetry charts for financial statements and stock auditing.
-
-#### 👔 3. Petrochoice HR Recruitment Platform
-* **Description:** A highly scalable applicant tracking pipeline built for high-traffic registration events.
-* **Core Tech:** React, Laravel, MySQL, REST APIs.
-* **Key Achievements:**
-  * Successfully processed and filtered records for **over 4,000 candidates** in a single event (Khalda KDC Recruitment).
-  * Built dynamic admin panels with bulk filtering, CV parsing triggers, and interview queue scheduling.
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud174200&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Mahmoud's GitHub Stats" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=0b0f19&height=220&section=header&text=MAHMOUD%20ELMOSALAMY&fontSize=42&fontColor=3b82f6&animation=twinkling&desc=Full%20Stack%20Software%20Engineer%20%7C%20Enterprise%20Architect&descAlignY=62&descAlign=50&descSize=18" width="100%" alt="Premium Banner" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud174200&layout=compact&theme=tokyonight&hide_border=true" alt="Mahmoud's Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=10b981&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Software+Engineer;Laravel+%E2%80%A2+React+%E2%80%A2+Node.js;AI+%26+RAG+Systems+Integrator;Real-time+Telemetry+Architect" alt="Dynamic Role Typist" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud174200&theme=tokyonight&hide_border=true" alt="Mahmoud's Streak Stats" />
-</p>
-
----
-
-### 🤝 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahmoud-ahmed-630475232/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:afmahmoudahmed@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://mosalamy.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Explore_My_Premium_Portfolio-3b82f6?style=for-the-badge&logoColor=white" alt="Portfolio Button" />
   </a>
+</p>
+
+---
+
+### 📡 System Diagnostics [Console initialized...]
+
+```yaml
+developer:
+  name: Mahmoud Ahmed Elmosalamy
+  role: Full Stack Software Engineer
+  alma_mater: Cairo University (CS Class of 2025)
+  location: New Cairo, Egypt
+  experience: 2+ Years Corporate Experience
+  status: "Engineering enterprise products & RAG architectures"
+  core_stack:
+    backend: [Laravel, Node.js, Express, Flask, WebSockets, REST APIs]
+    frontend: [React, Vue.js, React Native, Chart.js, ApexCharts]
+    databases: [MySQL, MongoDB, Oracle, Firebase]
+```
+
+---
+
+### 🚀 Key Focus & Enterprise Implementations
+
+* 🚛 **Journey Management System (JMS)**: Engineered real-time vehicle telemetry control rooms using WebSockets and integrated client-side camera ML scripts to trigger live driver fatigue/distraction alarms.
+* 🏢 **UniFlow ERP**: Designed multi-module enterprise structures (BD, Supply Chain, Finance, HR) secured with custom encrypted parameter routing.
+* 👔 **Petrochoice HR Recruitment**: Architected an applicant screening pipeline that filtered **over 4,000 candidates** in a single event.
+
+---
+
+### 🛠️ Interactive Tech Stack Matrix
+
+<div align="center">
+  
+  <!-- Languages -->
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  </p>
+
+  <!-- Frameworks & Runtimes -->
+  <p>
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  </p>
+
+  <!-- Databases & Systems -->
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  </p>
+  
+</div>
+
+---
+
+### 📊 Operational Telemetry & Metrics
+
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="50%" align="center">
+        <!-- Custom-colored Stats Card (Matching mosalamy.netlify.app) -->
+        <img src="https://github-readme-stats.vercel.app/api?username=Mahmoud174200&show_icons=true&theme=tokyonight&bg_color=0b0f19&title_color=3b82f6&text_color=94a3b8&icon_color=10b981&border_color=1b2336&count_private=true&hide_border=true" width="100%" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <!-- Custom-colored Languages Card -->
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoud174200&layout=compact&theme=tokyonight&bg_color=0b0f19&title_color=3b82f6&text_color=94a3b8&icon_color=10b981&border_color=1b2336&hide_border=true" width="100%" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <br/>
+        <!-- Custom-colored Streak Card -->
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoud174200&theme=tokyonight&background=0b0f19&fire=10b981&ring=3b82f6&currStreakLabel=3b82f6&sideNums=94a3b8&sideLabels=94a3b8&currStreakNum=10b981&hide_border=true" width="100%" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### ⚡ Activity Vector (Past 30 Days)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahmoud174200&theme=tokyo-night&bg_color=0b0f19&color=3b82f6&line=10b981&point=8b5cf6&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+---
+
+### 🤝 Interface Protocols [Establish connection...]
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-ahmed-630475232/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Shield" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:afmahmoudahmed@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Shield" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://mosalamy.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Netlify_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio Shield" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/normal-badge.png?key=Mahmoud174200-github-profile&color=3b82f6" alt="Profile Views Counter" />
 </p>
